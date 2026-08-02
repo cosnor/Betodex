@@ -53,7 +53,7 @@ const TITLES = {
     
   ],
   travel: [
-    ["Dos estatuas más", "Quintas de San Pedro", "Marzo 2025", "Duramos como media hora para tomar esta foto.", "Legendario"],
+    ["Dos estatuas más", "Quintas de San Pedro", "Marzo 2025", "Duramos como media hora para tomar esta foto.", "Poco Común"],
     ["Albeto en Pueblito Paisa", "Pueblito Paisa", "Enero 2026", "Tan bonito se ve.", "Común"],
     ["Albeto en Explora", "Parque Explora", "Enero 2026", "No se quería tomar la foto", "Común"],
     ["Albeto en metrocable", "Medellín", "Enero 2026", "El no estaba cagado.", "Épico"],
