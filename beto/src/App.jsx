@@ -49,7 +49,7 @@ const TITLES = {
     ["Alberto comiendo", "Uninorte", "Fecha desconocida", "Alberto comiendo porque Alberto es perfecto y hermoso.", "Común"],
     ["Alberto carreador", "Uninorte", "Fecha desconocida", "Alberto y dos alejandros. ¿Qué podría salir mal?", "Poco Común"],
     ["Pajareando", "Ciénaga", "2025", "Ver pelícanos culiando nunca fue tan divertido.", "Raro"],
-    ["Pajareando", "Ciénaga", "2025", "Ver pelícanos culiando nunca fue tan divertido.", "Épico"],
+    ["Pájaros sobrados", "Uninorte", "2025", "Mucha aura en una foto.", "Épico"],
     
   ],
   travel: [
@@ -158,13 +158,13 @@ const IMAGES = {
     "friends-3": "/foticos/friends/friends-03.jpeg",
     "friends-4": "/foticos/friends/friends-04.jpeg",
     "friends-5": "/foticos/friends/friends-05.jpeg",
+    "friends-6": "/foticos/friends/friends-06.jpeg",
     "university-1": "/foticos/university/university-01.jpeg",
     "university-2": "/foticos/university/university-02.jpeg",
     "university-3": "/foticos/university/university-03.jpeg",
     "university-4": "/foticos/university/university-04.jpeg",
     "university-5": "/foticos/university/university-05.jpeg",
     "university-6": "/foticos/university/university-06.jpeg",
-    "university-7": "/foticos/university/university-07.jpeg",
     "pareja-1": "/foticos/pareja/pareja-01.jpeg",
     "pareja-2": "/foticos/pareja/pareja-02.jpeg",
     "pareja-3": "/foticos/pareja/pareja-03.jpeg",
