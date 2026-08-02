@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "cd beto && npm install",
+  "buildCommand": "cd beto && npm run build",
+  "outputDirectory": "beto/dist"
+}

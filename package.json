@@ -1,0 +1,9 @@
+{
+  "name": "betodex",
+  "private": true,
+  "scripts": {
+    "dev": "cd beto && npm run dev",
+    "build": "cd beto && npm run build",
+    "preview": "cd beto && npm run preview"
+  }
+}
